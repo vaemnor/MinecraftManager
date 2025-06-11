@@ -1,9 +1,9 @@
 ![Logo](public/images/logo.png)
 
 # About Minecraft Manager
-Minecraft Manager is a lightweight Laravel-based web application that lets you browse and search Minecraft items easily by name or ID.
+**Minecraft Manager** is a lightweight Laravel-based web application that allows users to browse and search Minecraft items by name or ID. This project serves as a demonstration of full-stack web development, Laravel framework proficiency, and frontend design using Bootstrap.
 
-## 🚀 Features
+## 🧩 Features
 - 🔎 **Powerful Search** – Find Minecraft items by name or item ID
 - 🧱 **Minimal Item Database** – Displays names and IDs of items
 - 🎨 **Simple UI** – Built with Bootstrap 5
@@ -34,7 +34,7 @@ Ensure you have PHP 8.1+, Composer, and a MySQL database server installed and ru
 
 ### 2. Clone the Repository
 ```
-https://github.com/vaemnor/MinecraftManager.git
+git clone https://github.com/vaemnor/MinecraftManager.git
 ```
 
 ### 3. Install PHP Dependencies
@@ -61,3 +61,6 @@ DB_PASSWORD=
 php artisan serve
 ```
 Visit http://127.0.0.1:8000 in your browser. Make sure the MySQL server is running.
+
+## 📃 License
+This project is provided for educational and portfolio purposes only and is not intended for commercial distribution.
